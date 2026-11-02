@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+David;Java+Developer;Backend+Engineer;[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+David;Java+Developer;Backend+Engineer;Ope[...]
 </div>
 
 # Hi, I'm David 👋
@@ -32,7 +32,14 @@ Spring Boot, Java, Kotlin, OracleSQL, Kafka, Vaadin, Jira, Maven, JAXB, Bamboo, 
 
 ## About my work
 
-Java developer with experience in a banking distribution system built on event-driven architecture. I worked with REST and SOAP services to integrate internal systems and exchange data between banking...
+Java developer with experience in a banking distribution system built on event-driven architecture. I worked with REST and SOAP services to integrate internal systems and exchange data between banking[...]
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dava1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dava1&theme=tokyonight" alt="GitHub streak" />
+</p>
 
 ## Contact
 
