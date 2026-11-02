@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dava1;Java+Developer;Backend+Engineer;Open+Source+Learner" />
 </div>
 
-# Hi, I'm Dava1 👋
+# Hi, I'm Dave 👋
 
 I’m a software developer focused on Java, backend development, and building practical solutions. I enjoy working on real projects, learning from them, and improving my engineering skills every day.
 
