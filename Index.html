@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Project</title>
+  <style>
+    :root {
+      --bg: #ffffff; --text: #1f2328; --muted: #656d76;
+      --border: #d0d7de; --code-bg: #f6f8fa; --link: #0969da;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117; --text: #e6edf3; --muted: #8d96a0;
+        --border: #30363d; --code-bg: #161b22; --link: #4493f8;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--bg); color: var(--text);
+      font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    main { max-width: 760px; margin: 0 auto; padding: 3rem 1.25rem 5rem; }
+    h1, h2, h3, h4 { line-height: 1.25; margin: 2rem 0 1rem; }
+    h1 { font-size: 2.2rem; }
+    h1, h2 { padding-bottom: .3em; border-bottom: 1px solid var(--border); }
+    a { color: var(--link); }
+    img { max-width: 100%; height: auto; }
+    code {
+      background: var(--code-bg); padding: .15em .35em; border-radius: 4px;
+      font: .9em ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    pre {
+      background: var(--code-bg); padding: 1rem; border-radius: 6px;
+      overflow-x: auto; line-height: 1.45;
+    }
+    pre code { background: none; padding: 0; }
+    blockquote {
+      margin: 1rem 0; padding: 0 1rem;
+      color: var(--muted); border-left: 4px solid var(--border);
+    }
+    table { border-collapse: collapse; display: block; overflow-x: auto; }
+    th, td { border: 1px solid var(--border); padding: .4rem .8rem; }
+    hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
+    #status { color: var(--muted); }
+  </style>
+</head>
+<body>
+  <main id="content"><p id="status">LoadingвЂ¦</p></main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+  <script>
+    const content = document.getElementById("content");
+
+    fetch("README.md")
+      .then(res => {
+        if (!res.ok) throw new Error("README.md not found (" + res.status + ")");
+        return res.text();
+      })
+      .then(md => {
+        content.innerHTML = DOMPurify.sanitize(marked.parse(md));
+
+        // Use the first heading as the browser tab title
+        const h1 = content.querySelector("h1");
+        if (h1) document.title = h1.textContent;
+
+        // Give headings ids so #anchor links in the README work
+        content.querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(h => {
+          h.id = h.textContent.trim().toLowerCase()
+            .replace(/[^\w\s-]/g, "").replace(/\s+/g, "-");
+        });
+        if (location.hash) {
+          const target = document.getElementById(location.hash.slice(1));
+          if (target) target.scrollIntoView();
+        }
+      })
+      .catch(err => {
+        content.innerHTML = "<p id='status'>Could not load README.md: " + err.message + "</p>";
+      });
+  </script>
+</body>
+</html>
