@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dava1;Java+Developer;Backend+Engineer;Open+Source+Learner" />
 </div>
 
-# Hi, I'm Dave 👋
+# Hi, I'm Dava1 👋
 
 I’m a software developer focused on Java, backend development, and building practical solutions. I enjoy working on real projects, learning from them, and improving my engineering skills every day.
 
@@ -16,6 +16,10 @@ I also contribute to the Elasticsearch ecosystem and enjoy exploring distributed
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## Tech Stack
+
+Spring Boot, Java, Kotlin, OracleSQL, Kafka, Vaadin, Jira, Maven, JAXB, Bamboo, GitHub, BitBucket, SOAP, SonarQube, XML, JSON, WhiteSpace, Scrum
 
 ## Pinned repositories
 
