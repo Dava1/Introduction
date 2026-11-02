@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+David;Java+Developer;Backend+Engineer;Open+Source+Contributor;Elasticsearch+Explorer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=David+Uchurov;Java+Developer;Backend+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
+
+<pre align="center" style="background:#0d1117; color:#39FF14; border:1px solid #30363d; border-radius:12px; padding:18px; font-family:'JetBrains Mono', monospace; font-size:14px; line-height:1.7; box-shadow:0 0 20px rgba(57,255,20,0.15);">
+<span style="color:#8b949e">david@github:~$</span> whoami
+David Uchurov
+<span style="color:#8b949e">david@github:~$</span> java -version
+openjdk 17.0.10
+<span style="color:#8b949e">david@github:~$</span> cat /about/me.txt
+Java Developer • Backend Engineer • Problem Solver
+</pre>
 
 # Hi, I'm David 👋
 
@@ -16,32 +25,3 @@ I also contribute to the Elasticsearch ecosystem and enjoy exploring distributed
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-## Tech Stack
-
-Spring Boot, Java, Kotlin, OracleSQL, Kafka, Vaadin, Jira, Maven, JAXB, Bamboo, GitHub, BitBucket, SOAP, SonarQube, XML, JSON, WhiteSpace, Scrum
-
-## Pinned repositories
-
-- [Java](https://github.com/Dava1/Java) — Core Java projects and learning work
-- [Spring](https://github.com/Dava1/Spring) — Spring Framework experiments and applications
-- [RestApplication](https://github.com/Dava1/RestApplication) — REST API development practice
-- [train-application-spring-rest](https://github.com/Dava1/train-application-spring-rest) — Backend service application
-- [elasticsearch](https://github.com/Dava1/elasticsearch) — Open-source contribution and exploration
-
-## About my work
-
-Java developer with experience in a banking distribution system built on event-driven architecture. I worked with REST and SOAP services to integrate internal systems and exchange data between banking systems.
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dava1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dava1&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-## Contact
-
-- GitHub: https://github.com/Dava1
-- LinkedIn: [David Uchurov](https://www.linkedin.com/in/david-uchurov/)
-- Email: duchurov2189@gmail.com
