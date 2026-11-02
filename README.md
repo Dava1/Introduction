@@ -27,7 +27,6 @@ Spring Boot, Java, Kotlin, OracleSQL, Kafka, Vaadin, Jira, Maven, JAXB, Bamboo, 
 - [Spring](https://github.com/Dava1/Spring) — Spring Framework experiments and applications
 - [RestApplication](https://github.com/Dava1/RestApplication) — REST API development practice
 - [train-application-spring-rest](https://github.com/Dava1/train-application-spring-rest) — Backend service application
-- [AdapterArray](https://github.com/Dava1/AdapterArray) — Java implementation and adapter patterns
 - [elasticsearch](https://github.com/Dava1/elasticsearch) — Open-source contribution and exploration
 
 ## About my work
