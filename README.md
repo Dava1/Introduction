@@ -4,7 +4,7 @@
 
 # Hi, I'm Dava1 👋
 
-I’m a software developer focused on Java, backend development, and building practical solutions. I like working on real projects, learning from them, and improving my engineering skills every day.
+I’m a software developer focused on Java, backend development, and building practical solutions. I enjoy working on real projects, learning from them, and improving my engineering skills every day.
 
 I also contribute to the Elasticsearch ecosystem and enjoy exploring distributed systems, backend architecture, and scalable software.
 
@@ -19,32 +19,12 @@ I also contribute to the Elasticsearch ecosystem and enjoy exploring distributed
 
 ## Pinned repositories
 
-<p align="center">
-  <a href="https://github.com/Dava1/Java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dava1&repo=Java&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Dava1/Spring">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dava1&repo=Spring&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dava1/RestApplication">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dava1&repo=RestApplication&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Dava1/train-application-spring-rest">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dava1&repo=train-application-spring-rest&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dava1/AdapterArray">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dava1&repo=AdapterArray&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Dava1/elasticsearch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dava1&repo=elasticsearch&theme=tokyonight" />
-  </a>
-</p>
+- [Java](https://github.com/Dava1/Java) — Core Java projects and learning work
+- [Spring](https://github.com/Dava1/Spring) — Spring Framework experiments and applications
+- [RestApplication](https://github.com/Dava1/RestApplication) — REST API development practice
+- [train-application-spring-rest](https://github.com/Dava1/train-application-spring-rest) — Backend service application
+- [AdapterArray](https://github.com/Dava1/AdapterArray) — Java implementation and adapter patterns
+- [elasticsearch](https://github.com/Dava1/elasticsearch) — Open-source contribution and exploration
 
 ## About my work
 
