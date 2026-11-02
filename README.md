@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+David;Java+Developer;Backend+Engineer;Ope[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+David;Java+Developer;Backend+Engineer;Open+Source+Contributor;Elasticsearch+Explorer" alt="Typing animation" />
 </div>
 
 # Hi, I'm David 👋
@@ -32,7 +32,7 @@ Spring Boot, Java, Kotlin, OracleSQL, Kafka, Vaadin, Jira, Maven, JAXB, Bamboo, 
 
 ## About my work
 
-Java developer with experience in a banking distribution system built on event-driven architecture. I worked with REST and SOAP services to integrate internal systems and exchange data between banking[...]
+Java developer with experience in a banking distribution system built on event-driven architecture. I worked with REST and SOAP services to integrate internal systems and exchange data between banking systems.
 
 ## GitHub stats
 
