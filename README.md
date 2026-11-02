@@ -43,5 +43,5 @@ I also contribute to the Elasticsearch ecosystem and enjoy exploring distributed
 ## Contact
 
 - GitHub: https://github.com/Dava1
-- LinkedIn: [add your profile](https://www.linkedin.com/in/david-uchurov/)
+- LinkedIn: [David Uchurov](https://www.linkedin.com/in/david-uchurov/)
 - Email: duchurov2189@gmail.com
