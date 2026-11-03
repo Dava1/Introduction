@@ -37,6 +37,7 @@ My focus is on building software that is practical, maintainable, and dependable
 - [RestApplication](https://github.com/Dava1/RestApplication) — REST API development practice
 - [train-application-spring-rest](https://github.com/Dava1/train-application-spring-rest) — Backend service application
 - [elasticsearch](https://github.com/Dava1/elasticsearch) — Open-source contribution and exploration
+- [Harry vs Tom](https://github.com/Dava1/TDavinci_bot) — Telegram bot with a Harry Potter vs Tom Riddle guessing game 🐍⚡
 
 ## Interests
 
